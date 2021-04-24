@@ -5,7 +5,7 @@ It loads Yahoo CSV stock files, takes closing stocks value per day, and then cal
 Then it draws plots of original closing stock value, MACD, Signal and Histogram.
 
 
-#Apple stocks
+## Apple stocks
 
 ![obraz](https://user-images.githubusercontent.com/21158649/115968374-f8bf4100-a537-11eb-8a54-8d4213be0331.png)
 
